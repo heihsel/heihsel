@@ -2,7 +2,8 @@
 
 **`Automation and Tech-Nerd`**
 
-I'm passionated in automation and techstuff. I'm spending much working time and free time in developing software, engineering some technical things with CAD and build it by hands.   
+I'm passionated in automation and techstuff. I'm spending much working time and free time in developing software, engineering some technical things with CAD and build it by machine and hand. Also samoe useless stuff. But it makes fun.😄
+
 I'm primarly developing PLC software with Beckhoff's TwinCAT 3 for various industries.
 
 
