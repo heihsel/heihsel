@@ -1,4 +1,10 @@
-### Hi there 👋
+# Daniel Heihsel
+
+**`Automation and Tech-Nerd`**
+
+I'm passionated in automation and techstuff. I'm spending much working time and free time in developing software, engineering some technical things with CAD and build it by hands.   
+I'm primarly developing PLC software with Beckhoff's TwinCAT 3 for various industries.
+
 
 <!--
 **heihsel/heihsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
